@@ -36,6 +36,8 @@ virtualenv venv
 Ative o ambiente virtual criado.
 
 Windows:
+python -m venv .venv
+.venv/Scripts/Activate 
 bash
 
 Verify
